@@ -13,6 +13,7 @@ multiply_vectors <- function(v1, v2) {
   return(v1 * v2)
 }
 
+# hello Dhanya
 
 
 # Task 1: Implement a function to subtract two vectors, similar to the existing functions above.
